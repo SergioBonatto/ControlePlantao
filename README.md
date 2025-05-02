@@ -1,6 +1,6 @@
 # Controle de Plantão
 
-[imagem](./assets/controleplantao.png)
+![imagem](./assets/controleplantao.png)
 
 ## Descrição
 
